@@ -1,4 +1,4 @@
-# Delphi-39pin-adaptor
+# DO NOT USE Delphi-39pin-adaptor
 Adapt the 40pin IDE to a 39pin Delphi / FCI / SICMA 1.5
 
 Setup as follows;
